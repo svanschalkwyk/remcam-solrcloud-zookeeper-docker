@@ -1,1 +1,0 @@
-# remcam-solrcloud-zookeeper-docker
